@@ -1,0 +1,28 @@
+.sidebar {
+  float: left;
+  width: 20%;
+  padding-bottom: 250px;
+  border-right: solid;
+  margin-right: 10px;
+}
+
+.img {
+  float: right;
+  width:20%;
+  height:20%;
+  border-left: solid;
+  padding-left: 10px;
+  margin-left: 10px;
+}
+
+p{
+  margin-top: 20px;
+}
+img {
+  width:200px;
+}
+
+span{
+  font-size: 20px;
+  font-weight: bold;
+}
